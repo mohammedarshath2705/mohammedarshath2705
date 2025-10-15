@@ -46,35 +46,6 @@ Bachelor of Engineering in Electronics and Communication Engineering — *May 20
 
 ---
 
-## Projects
-
-**Movies App (Full Stack)**  
-- Tech Stack: Java, Spring Boot, PostgreSQL, Redis, React, Next.js, Tailwind CSS  
-- REST APIs, Redis caching, automated cron jobs, AWS deployment  
-[Backend Repo](https://github.com/mohammedarshath2705/Movies_App) | [Frontend Repo](https://github.com/mohammedarshath2705/Movies_App-Frontend) | [Live Demo](https://movies-app-frontend-five.vercel.app/)
-
-**Resume Builder App**  
-- MERN + PostgreSQL backend supporting structured templates and dynamic resume sections.  
-[Repository](https://github.com/mohammedarshath2705/ResumeBuilder_Backend)
-
-**Trump Card Game Project**  
-- Game simulation app using Java and Spring Boot with RESTful APIs for ranking and comparisons.  
-[Repository](https://github.com/mohammedarshath2705/TrumpCard-Project)
-
-**Portfolio Website**  
-- Built with Next.js and Tailwind CSS showcasing skills and projects.  
-[Live Site](https://arshwagen.vercel.app/)
-
----
-
-## Achievements
-
-- Solved **150+ coding problems** on GeeksforGeeks & LeetCode.  
-- Completed **Java Backend Development** and **DevOps Engineering** courses at GeeksforGeeks.  
-- Participated in the *“Go/No Queue Rush Estimator”* IoT project under the Naan Mudhalvan initiative.
-
----
-
 ## GitHub Stats
 
 ![Arshath's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedarshath2705&show_icons=true&theme=tokyonight)  
