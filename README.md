@@ -1,67 +1,68 @@
-# Hey there, I'm Mohammed Arshath  
+# Hi there, I'm Mohammed Arshath  
 
-**Full-Stack Developer | Java | Spring Boot | React | Next.js | PostgreSQL | Docker | AWS**
-
-2024 Graduate in Electronics and Communication Engineering  
-Based in **Bangalore, India**  
-Reach me at: **[sm.arshath2003@gmail.com](mailto:sm.arshath2003@gmail.com)**  
-[LinkedIn](https://www.linkedin.com/in/arshathmohammed27/) ⋄ [Portfolio](https://arshwagen.vercel.app/) ⋄ [LeetCode](https://leetcode.com/u/Arshath2705/)
+Welcome to my GitHub profile! I’m a Full-Stack Developer passionate about designing scalable backend systems and modern web applications. I have hands-on experience in **Java, Spring Boot, React, Next.js, and DevOps tools**, with a strong foundation in backend architecture, REST API development, and cloud deployment.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammedarshath2705&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## About Me
-
-Passionate about designing **scalable backend systems** and crafting **efficient REST APIs** using **Java and Spring Boot**.  
-Skilled in full-stack development with **React, Next.js, TypeScript, and Tailwind CSS**.  
-Strong understanding of **Docker, Jenkins, AWS**, and modern DevOps workflows.  
-Currently learning **Kubernetes and CI/CD automation**.  
-I enjoy solving complex problems and writing clean, maintainable code.
+## Contact
+📧 **Email:** [sm.arshath2003@gmail.com](mailto:sm.arshath2003@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/arshathmohammed27](https://www.linkedin.com/in/arshathmohammed27/)  
+🌐 **Portfolio:** [arshwagen.vercel.app](https://arshwagen.vercel.app/)  
+💻 **LeetCode:** [leetcode.com/u/Arshath2705](https://leetcode.com/u/Arshath2705/)
 
 ---
 
-## Tech Stack
+## Education
 
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Languages** | Java, TypeScript, Python |
-| **Backend** | Spring Boot, Spring Security, Node.js, Express.js |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
-| **DevOps & Tools** | Docker, Jenkins, Git, Linux, AWS, Maven, Postman |
-| **Testing** | JUnit, Mockito |
+**Saranathan College of Engineering**, Trichy, TN  
+Bachelor of Engineering in Electronics and Communication Engineering — *May 2024*
+
+**Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, Object-Oriented Programming, Web Development, Cloud Computing.
 
 ---
 
-## Featured Projects
+## Technical Skills
 
-### [Movies App (Full Stack)](https://github.com/mohammedarshath2705/Movies_App)
-A production-level movie browsing platform.  
-**Tech Stack:** Java, Spring Boot, PostgreSQL, Redis, React, Next.js, Tailwind CSS  
-**Features:** REST API, caching with Redis, automated cron jobs, AWS + Render deployment  
-[Frontend](https://github.com/mohammedarshath2705/Movies_App-Frontend) | [Live Demo](https://movies-app-frontend-five.vercel.app/)
-
----
-
-### [Resume Builder App](https://github.com/mohammedarshath2705/ResumeBuilder_Backend)
-A MERN + PostgreSQL-powered resume builder platform.  
-Supports structured templates and dynamic sections.  
-Uses PostgreSQL for structured data and MongoDB for flexible data.  
-Backend built using MERN stack and containerized for scalability.
+**Languages:** Java, TypeScript, Python  
+**Frameworks & Libraries:** Spring Boot, Spring Security, React, Next.js, Tailwind CSS, Node.js, Express.js  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+**DevOps & Tools:** Docker, Jenkins, Git, Linux, AWS, Maven, Postman  
+**Testing:** JUnit, Mockito  
+**Concepts:** REST APIs, Microservices, CI/CD, Containerization, Performance Optimization
 
 ---
 
-### [Trump Card Project](https://github.com/mohammedarshath2705/TrumpCard-Project)
-A multiplayer game simulation featuring multiple themes (dinosaurs, kings, ships, etc.).  
-**Tech Stack:** Java, Spring Boot, PostgreSQL  
-Implements game logic, ranking, and comparison mechanics with RESTful APIs.
+## Experience
+
+**Software Engineer – Backend**  
+*App Crew* | Remote | Jan 2025 – July 2025  
+
+- Developed a **Movies App** featuring a Spring Boot REST API backend and a React + Next.js frontend.  
+- Implemented **Redis caching** and **automated daily cron jobs** for optimized performance.  
+- Deployed backend services on **AWS and Render**, ensuring scalability and uptime.  
+- Contributed to the company’s **Resume Builder App** using **MERN Stack** and **PostgreSQL**, enabling users to create dynamic, customizable resumes.
 
 ---
 
-### [Portfolio Website](https://github.com/mohammedarshath2705/Arshath-Portfolio)
-Personal website built with **Next.js + Tailwind CSS**, showcasing projects and skills.  
-Fully responsive and deployed on **Vercel**.  
+## Projects
+
+**Movies App (Full Stack)**  
+- Tech Stack: Java, Spring Boot, PostgreSQL, Redis, React, Next.js, Tailwind CSS  
+- REST APIs, Redis caching, automated cron jobs, AWS deployment  
+[Backend Repo](https://github.com/mohammedarshath2705/Movies_App) | [Frontend Repo](https://github.com/mohammedarshath2705/Movies_App-Frontend) | [Live Demo](https://movies-app-frontend-five.vercel.app/)
+
+**Resume Builder App**  
+- MERN + PostgreSQL backend supporting structured templates and dynamic resume sections.  
+[Repository](https://github.com/mohammedarshath2705/ResumeBuilder_Backend)
+
+**Trump Card Game Project**  
+- Game simulation app using Java and Spring Boot with RESTful APIs for ranking and comparisons.  
+[Repository](https://github.com/mohammedarshath2705/TrumpCard-Project)
+
+**Portfolio Website**  
+- Built with Next.js and Tailwind CSS showcasing skills and projects.  
 [Live Site](https://arshwagen.vercel.app/)
 
 ---
@@ -69,7 +70,7 @@ Fully responsive and deployed on **Vercel**.
 ## Achievements
 
 - Solved **150+ coding problems** on GeeksforGeeks & LeetCode.  
-- Completed **Java Backend Development** and **DevOps Engineering** courses from GeeksforGeeks.  
+- Completed **Java Backend Development** and **DevOps Engineering** courses at GeeksforGeeks.  
 - Participated in the *“Go/No Queue Rush Estimator”* IoT project under the Naan Mudhalvan initiative.
 
 ---
@@ -81,4 +82,4 @@ Fully responsive and deployed on **Vercel**.
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my projects and connect with me — I’m always open to collaboration and new opportunities.
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me — I’m always open to collaboration and new opportunities.
