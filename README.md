@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m a Full-Stack Developer passionate about desi
 ## Education
 
 **Saranathan College of Engineering**, Trichy, TN  
-Bachelor of Engineering in Electronics and Communication Engineering — *May 2024*
+Bachelor of Engineering in Electronics and Communication Engineering | **2020 - 2024**
 
 **Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, Object-Oriented Programming, Web Development, Cloud Computing.
 
