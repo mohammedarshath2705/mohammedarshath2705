@@ -1,16 +1,16 @@
 # Hi there, I'm Mohammed Arshath  
 
-Welcome to my GitHub profile! I’m a Full-Stack Developer passionate about designing scalable backend systems and modern web applications. I have hands-on experience in **Java, Spring Boot, React, Next.js, and DevOps tools**, with a strong foundation in backend architecture, REST API development, and cloud deployment.
+Welcome to my GitHub profile! I’m a Full-Stack Developer passionate about designing scalable backend systems and modern web applications. I have hands-on experience in Java, Spring Boot, MERN Stack (MongoDB, Express.js, React, Node.js), Next.js, and DevOps tools, with a strong foundation in backend architecture, REST API development, and cloud deployment.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammedarshath2705&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## Contact
-📧 **Email:** [sm.arshath2003@gmail.com](mailto:sm.arshath2003@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/arshathmohammed27](https://www.linkedin.com/in/arshathmohammed27/)  
-🌐 **Portfolio:** [arshwagen.vercel.app](https://arshwagen.vercel.app/)  
-💻 **LeetCode:** [leetcode.com/u/Arshath2705](https://leetcode.com/u/Arshath2705/)
+**Email:** [sm.arshath2003@gmail.com](mailto:sm.arshath2003@gmail.com)  
+**LinkedIn:** [linkedin.com/in/arshathmohammed27](https://www.linkedin.com/in/arshathmohammed27/)  
+**Portfolio:** [arshwagen.vercel.app](https://arshwagen.vercel.app/)  
+**LeetCode:** [leetcode.com/u/Arshath2705](https://leetcode.com/u/Arshath2705/)
 
 ---
 
@@ -48,7 +48,6 @@ Bachelor of Engineering in Electronics and Communication Engineering — *May 20
 
 ## GitHub Stats
 
-![Arshath's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedarshath2705&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedarshath2705&layout=compact&theme=tokyonight)
 
 ---
